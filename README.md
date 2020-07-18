@@ -1,2 +1,2 @@
 # FreeCodeCamp
-FreeCodeCamp Projects
+freeCodeCamp Projects
